@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
+![image](https://user-images.githubusercontent.com/13851807/87467667-b521c900-c5ee-11ea-8a42-36ffe2f41676.png)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://javier-donadio.web.app/)**
 
 ## Status
 
